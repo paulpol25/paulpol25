@@ -19,7 +19,7 @@
 
 ## 🕵️‍♂️ Mission Profile
 
-I am a security professional bridging the gap between **Offensive Security** (Red Team) and **Defensive Operations** (Blue Team). My passion lies in **Penetration Testing** and **Malware Analysis**, while also leveraging my development skills in **React** and Python to build next-gen security tools.
+I am a security professional bridging the gap between **Offensive Security** (Red Team) and **Defensive Operations** (Blue Team). My passion lies in **Penetration Testing**, **Incident Response**, **Automation (AI)** and **Malware Analysis**, while also leveraging my development skills in **React** and Python to build next-gen security tools.
 
 ---
 
