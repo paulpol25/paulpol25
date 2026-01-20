@@ -10,7 +10,7 @@
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Paul-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010&color=0077b5)](https://www.linkedin.com/in/paul-capota-933b4a172/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Paul-white?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=181717)](https://github.com/paulpol25)
-[![Visma](https://img.shields.io/badge/Visma-Security_Responder-red?style=for-the-badge&labelColor=101010&color=EF4136)](https://www.visma.com/)
+[![Visma](https://img.shields.io/badge/Visma-Incident_Responder-red?style=for-the-badge&labelColor=101010&color=EF4136)](https://www.visma.com/)
 [![Red Baron](https://img.shields.io/badge/Red_Baron-Security_Researcher-darkred?style=for-the-badge&logo=security-scorecard&logoColor=white&labelColor=101010&color=D00000)](https://redbaronsecurity.com/)
 
 </div>
