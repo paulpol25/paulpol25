@@ -64,7 +64,7 @@ I hold a comprehensive suite of industry-recognized certifications validating my
         </a>
       </div>
       <p align="center">
-        <i>Specialized User Account Control (UAC) parser integrated with AI for enhanced forensic analysis.</i>
+        <i>Specialized Unix-like Artifacts Collector (UAC) parser integrated with AI for enhanced forensic analysis.</i>
       </p>
       <p align="center">
          <code>Python</code> <code>Forensics</code> <code>AI Analysis</code>
