@@ -430,7 +430,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&text=%22You%20should%20get%20to%20the%20point%2C%20where%20anyone%20else%20would%20quit%22&fontSize=16&fontColor=00f2ff&fontAlignY=50" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&text=%22You%20should%20get%20to%20the%20point%20where%20anyone%20else%20would%20quit%22&fontSize=16&fontColor=00f2ff&fontAlignY=50" width="80%" />
 
 <br/>
 
