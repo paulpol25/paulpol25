@@ -381,6 +381,31 @@
         <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
     </td>
+     <td width="50%" valign="top">
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/🧠-CYBER--COUNCIL-00f2ff?style=for-the-badge&labelColor=0D1117" />
+      </h3>
+      <div align="center">
+        <a href="https://github.com/paulpol25/mind-mapper">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulpol25&mind-mapper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ff&icon_color=00f2ff" />
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/PRIORITY-HIGH-ff6b35?style=flat-square&labelColor=0D1117" />
+      </p>
+      <p align="center">
+        <b>AI-powered incident overview engine</b><br/>
+        <sub>Correlates log patterns → generates actionable threat intelligence using LLMs</sub>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/MINDMAPS-DC143C?style=flat-square" />
+        <img src="https://img.shields.io/badge/ai-assistant-DC143C?style=flat-square" />
+      </p>
+    </td>
   </tr>
 </table>
 </div>
